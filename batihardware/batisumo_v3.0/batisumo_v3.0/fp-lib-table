@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MixLib")(type "KiCad")(uri "D:/MixLib-main/MixLib-main/MixLib.pretty")(options "")(descr ""))
+  (lib (name "icon huellas")(type "KiCad")(uri "C:/Users/bruno/Desktop/huella y simbolo batisumo/icon huellas")(options "")(descr ""))
+)
